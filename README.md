@@ -2,10 +2,6 @@
 
 Detecting an exploit burst in simulated Snort/Suricata alerts using Python visualization and a simple rule-based detector.
 
-> **Course:** IA for Cybersecurity — 3rd Year, Second Cycle, Option CyS  
-> **Lab 02:** ML/DL techniques in Cybersecurity  
-> **Author:** _Your Name_
-
 ---
 
 ## Overview
